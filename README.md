@@ -5,9 +5,9 @@ Link: https://luishofachin.web.app/
 Tecnologias utilizadas:
 
 - HTML
-- Bootstrap
-
 - CSS
+- JavaScript
+- Bootstrap
 - AOS - Animate On Scroll library using CSS3
 - Firebase
 
