@@ -4,6 +4,7 @@ Link: https://luishofachin.web.app/
 
 Tecnologias utilizadas:
 
+- HTML
 - Bootstrap
 
 - CSS
